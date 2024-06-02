@@ -1,4 +1,5 @@
 **PDF Query Bot**
+
 Welcome to the **PDF Query Bot** repository! This chatbot is designed to extract and query details from digital PDF files. Whether you’re analyzing research papers, legal documents, or user manuals, this bot can assist you in retrieving relevant information.
 
 **Features**
